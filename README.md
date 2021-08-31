@@ -1,6 +1,8 @@
-<img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" align="center" width=300>
+<img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" align="center" width="300">
 
 ### :happy: My name is Mustapha AJEGHRIR
+
+:happy: My name is Mustapha AJEGHRIR
 
 ### :man_student: I am a student at CentraleSupélec. I studied :books: many field, among them: 
 
