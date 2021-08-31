@@ -1,4 +1,4 @@
-<img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" style="display:block; margin:auto; width: 50%">
+<img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" style="display:block; margin-left:auto; margin-right: auto ; width: 50%">
 
 ### :smile: My name is Mustapha AJEGHRIR
 
