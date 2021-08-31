@@ -1,6 +1,4 @@
-![Hello there](HELLO_THERE/HELLO_THERE.gif)
-
-<img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" align="center">
+<img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" align="center" width=300>
 
 ### :happy: My name is Mustapha AJEGHRIR
 
