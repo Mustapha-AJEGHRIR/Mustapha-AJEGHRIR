@@ -15,6 +15,9 @@
 * :keyboard: ​Algorithms.
 * :gear: Optimization.
 * :computer: ​Machine Learning and Deep learning.
+* :video_game: Reinforcement Learning.
+* :eye_speech_bubble: Computer Visoin.
+* :book: Natural Language Processing.
 * :control_knobs: Distributed systems.
 
 And many others ...
