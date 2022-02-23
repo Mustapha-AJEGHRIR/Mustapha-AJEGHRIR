@@ -28,7 +28,7 @@ And many others ...
 
 ### By the way here are some of my statistics 🚀
 
-In GitHub :octocat:, I mainly work with private repos.
+:octocat:
 
 ![Mustapha AJEGHRIR github stats](https://github-readme-stats.vercel.app/api?username=Mustapha-AJEGHRIR&show_icons=true&theme=tokyonight)
 
