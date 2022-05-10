@@ -4,7 +4,7 @@
 
 ### :smile: My name is Mustapha AJEGHRIR
 
-### :man_student: I am a student at CentraleSupélec. I studied :books: many field, among them: 
+### :man_student: At CentraleSupélec, I studied :books: many field, among them: 
 
 * :heavy_plus_sign: Algebra.
 * :chart_with_upwards_trend: Mathematical Analysis.
@@ -22,9 +22,11 @@
 
 And many others ...
 
-### Now I study :robot: ​AI​ :robot:,  ​ 
+### I have centered my studies around :robot: ​AI​ :robot:,  ​ 
 
 ​	It's all about what can make your computer smarter :brain:.
+
+### Now I'm a Machine Learning Engineer at 🟨 Klee Group 🟨
 
 ### By the way here are some of my statistics 🚀
 
