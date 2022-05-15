@@ -1,4 +1,5 @@
-# This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
+# If you liked these metrics and want to learn more about them, take a look at this repo : https://github.com/lowlighter/metrics There is all you need there 
+
 
 name: Metrics
 on:
