@@ -39,3 +39,8 @@ And many others ...
 
 
 ### If you want to know more about me, please contact me in [Linkedin](https://www.linkedin.com/in/ajeghrir-mustapha/)
+
+### More insight :
+<div align="center">
+  <img  width="500px" alt="🦑" src="https://github.com/Mustapha-AJEGHRIR/Mustapha-AJEGHRIR/blob/main/metrics.plugin.stackoverflow.svg">
+</div>
