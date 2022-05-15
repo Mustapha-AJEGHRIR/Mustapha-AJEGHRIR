@@ -43,6 +43,29 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
+
+
+      - name: 🦑 Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+  
+      - name: 🦑 Top answers from stackoverflow
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stackoverflow.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+
           
       - name: 🦑 Mastered topics
         if: ${{ success() || failure() }}
