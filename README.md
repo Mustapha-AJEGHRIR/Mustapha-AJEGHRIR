@@ -53,6 +53,11 @@ And many others ...
   <img  width="500px" alt="🦑" src="https://github.com/Mustapha-AJEGHRIR/Mustapha-AJEGHRIR/blob/main/metrics.plugin.stackoverflow.svg">
 </div>
 
+
+<div align="center">
+  <img  width="500px" alt="🦑" src="https://github.com/Mustapha-AJEGHRIR/Mustapha-AJEGHRIR/blob/main/metrics.plugin.topics.svg">
+</div>
+
 <div align="center">
   <img  width="100%" alt="🦑" src="https://github.com/Mustapha-AJEGHRIR/Mustapha-AJEGHRIR/blob/main/metrics.personal.achievements.svg">
 </div>
