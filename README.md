@@ -20,6 +20,7 @@
 * :book: Natural Language Processing.
 * :control_knobs: Distributed systems.
 
+
 And many others ...
 
 ### I have centered my studies around :robot: ​AI​ :robot:,  ​ 
