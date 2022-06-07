@@ -1178,14 +1178,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 84.7kb of code in 9 edited files across 13 commits over last 12 days</small>
+                <small>estimation from 84.6kb of code in 9 edited files across 13 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.26813365933174" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="453.26813365933174" y="0" width="6.731866340668297" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.2631205673759" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="453.2631205673759" y="0" width="6.7368794326241135" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1197,7 +1197,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>199 lines</div>
+                                <div>194 lines</div>
                                 <div>98.54%</div>
                             </small>
                         </div>
