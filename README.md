@@ -6,6 +6,7 @@
 
 ### :man_student: At CentraleSupélec, I studied :books: many field, among them: 
 
+
 * :heavy_plus_sign: Algebra.
 * :chart_with_upwards_trend: Mathematical Analysis.
 * :bar_chart: Advanced probabilities.
