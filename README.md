@@ -4,7 +4,7 @@
 
 ### :smile: My name is Mustapha AJEGHRIR
 
-### :man_student: At CentraleSupélec, I studied :books: many field, among them: 
+### :man_student: At CentraleSupélec, I studied :books: a lot of computer science related courses and many other field, among them: 
 
 
 * :heavy_plus_sign: Algebra.
