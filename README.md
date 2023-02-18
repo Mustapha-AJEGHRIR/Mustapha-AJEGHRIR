@@ -28,7 +28,8 @@ And many others ...
 
 ​	It's all about what can make your computer smarter :brain:.
 
-### Now I'm a Machine Learning Engineer at 🟨 Klee Group 🟨
+<!-- ### Now I'm a Machine Learning Engineer at 🟨 Klee Group 🟨 -->
+### Now I'm an AI researcher at 🟦 HrFlow.ai 🟦
 
 ### By the way here are some of my statistics 🚀
 
