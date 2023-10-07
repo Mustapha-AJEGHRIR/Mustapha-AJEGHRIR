@@ -3,7 +3,7 @@
 <img src="/HELLO_THERE/HELLO_THERE.gif" alt="Hello world" style="display:block; margin-left:auto; margin-right: auto ; width: 50%">
 
 ### :smile: My name is Mustapha AJEGHRIR
-If you want to know more about me, please contact me in [Linkedin](https://www.linkedin.com/in/ajeghrir-mustapha/)
+If you want to know more about me, please contact me on [Linkedin](https://www.linkedin.com/in/ajeghrir-mustapha/)
 
 
 ![Mustapha AJEGHRIR github stats](https://github-readme-stats.vercel.app/api?username=Mustapha-AJEGHRIR&show_icons=true&theme=tokyonight)
